@@ -13,7 +13,8 @@ let Header = () =>{
         justifyContent: "space-between"}}>
                     <section><Typography variant= "h3">Kyle Costello</Typography></section>
                     <section>
-                        
+                        <Button variant="contained" href="https://github.com/Krestle80" target="blank">gitHub</Button>
+                        <Button variant="contained" href="https://www.linkedin.com/in/kyle-costello-63b51422b" target="blank">linkedin</Button>
                        <Button variant="contained" href="https://docs.google.com/document/d/1IrHbNDwEZQFoGTYIJaZN8a6IiF1UrElOLOzNmB03HVU/edit?usp=sharing" targer="blank">Resume</Button> 
                        <Button variant="contained" href="mailto:kylec0217@gmail.com" >Email</Button>
                     </section>
