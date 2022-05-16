@@ -12,7 +12,7 @@ I needed a way to display all my projects at once. This website displays several
 
 
 ## Installation
-Please visit the deployment on Heroku [Here](https://warm-inlet-26741.herokuapp.com/)
+Please visit the deployment on GitHub [Here](https://krestle80.github.io/reactPortfolio/)
 
 ## License
 Copyright  2022  Kyle Costello
