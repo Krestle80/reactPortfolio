@@ -2,6 +2,7 @@ import './App.css';
 import tech from './techBlog.png'
 import filler from './filler.png'
 import calc from './calculator.png'
+import ticTacToe from './ticTacToe.png'
 import cardCity from "./cardCityPic.png"
 import therapistFinder from './therapistFinder.png'
 import webDevGroupFind from './webDevGroupFinder.png'
@@ -13,7 +14,7 @@ import Footer from './components/footer'
 import Box from '@mui/material/Box';
 
 
-let picArray =[ filler, calc, cardCity,  therapistFinder,webDevGroupFind,passGenPic, bubbleProject, tech, filler]
+let picArray =[ filler, calc, ticTacToe, cardCity, therapistFinder,webDevGroupFind,passGenPic, bubbleProject, tech, filler]
 function App(props) {
   return (
     <Box className="App" sx= {{backgroundColor:"#73c7ff", display:"flex", flexDirection:"column"}}>
